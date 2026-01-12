@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://header-image.amitdubey.me/profile-header.png" alt="Amit Dubey Profile Header" width="100%" /> 
+  <img src="header.png" alt="Amit Dubey Profile Header" width="100%" /> 
   
   <h1 align="center">Hi, I'm Amit Dubey 👋</h1>
   
