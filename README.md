@@ -73,7 +73,7 @@ My passion lies in aligning technology with business strategy to deliver intelli
 - Developed REST APIs serving **500K+ global learners**.
 - Optimized database queries and caching strategies, improving API response times by **40%**.
 
-#### **Software Engineer** @ HostBooks _(Jun 2018 – Aug 2021)_
+#### **Software Engineer** @ HostBooks _(Jun 2017 – Aug 2021)_
 *Core developer for GST & Financial Compliance SaaS.*
 - **Product Dev**: Developed the entire **GST Module** (GSTR-1/3B filing) and **E-Way Bill system** from scratch.
 - **Finance Tech**: Built accounting modules, ledger management, and automated bank reconciliation systems.
