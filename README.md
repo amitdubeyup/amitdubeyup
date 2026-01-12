@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="header.png" alt="Amit Dubey Profile Header" width="100%" /> 
-  
   <h1 align="center">Hi, I'm Amit Dubey 👋</h1>
   
   <p align="center">
