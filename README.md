@@ -69,11 +69,11 @@ My passion lies in aligning technology with business strategy to deliver intelli
 - **Cost Savings**: Built a smart rate-calculation engine that helped merchants save **20% on shipping costs**.
 - **Reliability**: Designed an event-driven status update system using **Kafka**, ensuring zero message loss during peak loads.
 
-#### **Senior Software Engineer** @ Simplilearn _(Sep 2021 – Nov 2021)_
+#### **Senior Software Engineer** @ [Simplilearn](https://simplilearn.com) _(Sep 2021 – Nov 2021)_
 - Developed REST APIs serving **500K+ global learners**.
 - Optimized database queries and caching strategies, improving API response times by **40%**.
 
-#### **Software Engineer** @ HostBooks _(Jun 2017 – Aug 2021)_
+#### **Software Engineer** @ [HostBooks](https://hostbooks.com) _(Jun 2017 – Aug 2021)_
 *Core developer for GST & Financial Compliance SaaS.*
 - **Product Dev**: Developed the entire **GST Module** (GSTR-1/3B filing) and **E-Way Bill system** from scratch.
 - **Finance Tech**: Built accounting modules, ledger management, and automated bank reconciliation systems.
