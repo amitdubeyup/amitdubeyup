@@ -98,8 +98,7 @@ While my professional work drives business impact, I love building open-source t
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitdubeyup&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Amit's GitHub Stats" />
-  <br><br>
+
   <i>"Adequate at aligning technology with business strategy to deliver high-impact, intelligent solutions."</i>
   <br><br>
   <a href="https://linkedin.com/in/amitdubeyup"><b>Connect on LinkedIn</b></a>
