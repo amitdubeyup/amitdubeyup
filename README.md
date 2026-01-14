@@ -102,4 +102,6 @@ While my professional work drives business impact, I love building open-source t
   <i>"Passionate about aligning technology with business strategy to deliver high-impact, intelligent solutions."</i>
   <br><br>
   <a href="https://linkedin.com/in/amitdubeyup"><b>Connect on LinkedIn</b></a>
+  <br><br>
+  📫 <b>Open to interesting opportunities</b> • 💬 <b>Let's collaborate!</b>
 </div>
