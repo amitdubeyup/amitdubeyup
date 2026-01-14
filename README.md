@@ -99,7 +99,7 @@ While my professional work drives business impact, I love building open-source t
 
 <div align="center">
 
-  <i>"Adequate at aligning technology with business strategy to deliver high-impact, intelligent solutions."</i>
+  <i>"Passionate about aligning technology with business strategy to deliver high-impact, intelligent solutions."</i>
   <br><br>
   <a href="https://linkedin.com/in/amitdubeyup"><b>Connect on LinkedIn</b></a>
 </div>
